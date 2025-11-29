@@ -1,0 +1,50 @@
+{
+  "name": "edubuddy-ai-platform",
+  "version": "1.0.0",
+  "description": "AI Learning Platform - EduBuddy with comprehensive study tools, exam preparation, and progress tracking",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.0.0",
+    "framer-motion": "^10.0.0",
+    "lucide-react": "^0.263.0",
+    "@base44/client": "^1.0.0",
+    "axios": "^1.3.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/jest-dom": "^5.16.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saitejadattu/edubuddy-ai-platform.git"
+  },
+  "author": "Sai Tej Adattu",
+  "license": "MIT"
+}
